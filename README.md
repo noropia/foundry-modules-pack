@@ -8,6 +8,7 @@ Curated list of compatible modules for Foundry VTT. Includes module lists for mu
 | Compatibility Documentation | Documentation on compatibilities, compiled from developer READMEs, testing, and module versions. | Started |
 | Compatibility Checks | Scripts to validate a list of modules against a list of known/possible conflicts. | Started |
 | Client Settings | Opinionated client settings for each module. | Started |
+| Keybindings Map | Visual reference of all keybindings. | Started |
 | Curated modules list for D&D 5e | | Not Started |
 | Curated modules list for Pathfinder 2e | | Not Started |
 | Curated modules list for Call of Cthulhu 7e | | Not Started |
